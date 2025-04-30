@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Cek Kelulusan - SMKN 1 RENGAT BARAT</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="splashScreen" class="splash">
+        <div class="typewriter-container">
+            <div class="typewriter">
+                <h1>SELAMAT DATANG DI CEK KELULUSAN SMKN 1 RENGAT BARAT.</h1>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="container">
+        <div id="countdown"></div>
+        <div id="waitingMessage" style="display: none;">
+            <h2>⌛ Sabar ya, pengumuman belum dibuka ⌛</h2>
+        </div>
+        <div id="formContainer" style="display: none;">
+            <h1>CEK KELULUSAN</h1>
+            <div class="form-container">
+                <form id="nisnForm">
+                    <input type="text" id="nisnInput" placeholder="Masukkan NISN" required>
+                    <button type="submit">Cek</button>
+                </form>
+                <div id="result"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
