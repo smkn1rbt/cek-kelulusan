@@ -29,7 +29,7 @@ const students = {
         nama: 'CHRISTIAN ARFILLIANDO SARAGIH',
         konsentrasi: 'Teknik Konstruksi dan Perumahan'
     },
-    '0075413095': {
+    '0075410395': {
         nama: 'DARMAN LAIA',
         konsentrasi: 'Teknik Konstruksi dan Perumahan'
     },
@@ -53,7 +53,7 @@ const students = {
         nama: 'HERI HADIMAN',
         konsentrasi: 'Teknik Konstruksi dan Perumahan'
     },
-    '0063581746': {
+    '0054097934': {
         nama: 'HIFNU ANGGI SABDA',
         konsentrasi: 'Teknik Konstruksi dan Perumahan'
     },
@@ -61,11 +61,11 @@ const students = {
         nama: 'HOLONG PARLINDUNGAN HA',
         konsentrasi: 'Teknik Konstruksi dan Perumahan'
     },
-    '0060609260': {
+    '0066092690': {
         nama: 'IMAN SAPUTRA LASE',
         konsentrasi: 'Teknik Konstruksi dan Perumahan'
     },
-    '0062411175': {
+    '0026448115': {
         nama: 'IMRAN SURIZKI',
         konsentrasi: 'Teknik Konstruksi dan Perumahan'
     },
@@ -89,11 +89,11 @@ const students = {
         nama: 'LUKMAN NURHAKIM',
         konsentrasi: 'Teknik Konstruksi dan Perumahan'
     },
-    '0072367985': {
+    '0071233933': {
         nama: 'M. ILHAM MAULANA',
         konsentrasi: 'Teknik Konstruksi dan Perumahan'
     },
-    '0053732387': {
+    '0053732587': {
         nama: 'MARZEAL AFRIZAL',
         konsentrasi: 'Teknik Konstruksi dan Perumahan'
     },
@@ -113,7 +113,7 @@ const students = {
         nama: 'ROBBY AGUS PAISAL',
         konsentrasi: 'Teknik Konstruksi dan Perumahan'
     },
-    '0068091782': {
+    '0068091788': {
         nama: 'SISKA TAMBUNAN',
         konsentrasi: 'Teknik Konstruksi dan Perumahan'
     },
@@ -130,7 +130,7 @@ const students = {
         nama: 'ABI ZAM ZAMI',
         konsentrasi: 'Teknik Kendaraan Ringan'
     },
-    '0068877478': {
+    '0068871478': {
         nama: 'AHMAD FAREZI PRANATA',
         konsentrasi: 'Teknik Kendaraan Ringan'
     },
@@ -142,7 +142,7 @@ const students = {
         nama: 'ALDY HARIYADI SYAHPUTRA',
         konsentrasi: 'Teknik Kendaraan Ringan'
     },
-    '0078089808': {
+    '0076089808': {
         nama: 'ALZA THASYA HILLA',
         konsentrasi: 'Teknik Kendaraan Ringan'
     },
@@ -150,15 +150,15 @@ const students = {
         nama: 'ARYA BAYU PRATAMA',
         konsentrasi: 'Teknik Kendaraan Ringan'
     },
-    '0077626594': {
+    '0077625594': {
         nama: 'BUDIANTO MANALU',
         konsentrasi: 'Teknik Kendaraan Ringan'
     },
-    '0064571225': {
+    '0065745511': {
         nama: 'DEWA MAHARDIKA',
         konsentrasi: 'Teknik Kendaraan Ringan'
     },
-    '0062472279': {
+    '0062742279': {
         nama: 'DIMAS WAHYUDA',
         konsentrasi: 'Teknik Kendaraan Ringan'
     },
@@ -178,7 +178,7 @@ const students = {
         nama: 'HABIL ARRASYA',
         konsentrasi: 'Teknik Kendaraan Ringan'
     },
-    '0062921584': {
+    '0062921858': {
         nama: 'HARDIANSYAH',
         konsentrasi: 'Teknik Kendaraan Ringan'
     },
@@ -186,7 +186,7 @@ const students = {
         nama: 'HARMEGI',
         konsentrasi: 'Teknik Kendaraan Ringan'
     },
-    '0072633661': {
+    '0072638661': {
         nama: 'HOTMAN SAPUTRA',
         konsentrasi: 'Teknik Kendaraan Ringan'
     },
@@ -202,11 +202,11 @@ const students = {
         nama: 'M. AFRIZAL HAIRUN PRATAMA',
         konsentrasi: 'Teknik Kendaraan Ringan'
     },
-    '3055400099': {
+    '3055040099': {
         nama: 'M. IMAM NOVERDI AL FAZRI',
         konsentrasi: 'Teknik Kendaraan Ringan'
     },
-    '0071790592': {
+    '0071179052': {
         nama: 'M. KEVIN SAPUTRA',
         konsentrasi: 'Teknik Kendaraan Ringan'
     },
@@ -218,7 +218,7 @@ const students = {
         nama: 'MUHAMAD TAUFIK',
         konsentrasi: 'Teknik Kendaraan Ringan'
     },
-    '0073410969': {
+    '0037410969': {
         nama: 'NANANG PRAYOGI',
         konsentrasi: 'Teknik Kendaraan Ringan'
     },
@@ -234,7 +234,7 @@ const students = {
         nama: 'RAKA JHOVANSA',
         konsentrasi: 'Teknik Kendaraan Ringan'
     },
-    '0066521611': {
+    '0065521611': {
         nama: 'REONALDE NAINGGOLAN',
         konsentrasi: 'Teknik Kendaraan Ringan'
     },
@@ -242,15 +242,15 @@ const students = {
         nama: 'RISKY DARMAWAN',
         konsentrasi: 'Teknik Kendaraan Ringan'
     },
-    '0066593094': {
+    '0077296050': {
         nama: 'ROID LUTHFI MUBARROK',
         konsentrasi: 'Teknik Kendaraan Ringan'
     },
-    '0065690180': {
+    '0056690180': {
         nama: 'ROSDIANTO',
         konsentrasi: 'Teknik Kendaraan Ringan'
     },
-    '0067795682': {
+    '0077361940': {
         nama: 'SULTHAN HANNANSYAH',
         konsentrasi: 'Teknik Kendaraan Ringan'
     },
@@ -271,7 +271,7 @@ const students = {
         nama: 'AEDO MIFTAKHUS SALIM',
         konsentrasi: 'Teknik Sepeda Motor'
     },
-    '0075660156': {
+    '0075650156': {
         nama: 'ANGGA DWI SUPRATAMA',
         konsentrasi: 'Teknik Sepeda Motor'
     },
@@ -279,11 +279,11 @@ const students = {
         nama: 'BAGAS APRIYANDI',
         konsentrasi: 'Teknik Sepeda Motor'
     },
-    '0064439987': {
+    '0064430989': {
         nama: 'DANU DWI HARIYANTO',
         konsentrasi: 'Teknik Sepeda Motor'
     },
-    '0055000804': {
+    '0055000864': {
         nama: 'DANU MAYSANDI',
         konsentrasi: 'Teknik Sepeda Motor'
     },
@@ -291,15 +291,15 @@ const students = {
         nama: 'DEWA FEBRIYAN SAPUTRA',
         konsentrasi: 'Teknik Sepeda Motor'
     },
-    '0060010395': {
+    '0068001395': {
         nama: 'DIMAS SAPUTRA',
         konsentrasi: 'Teknik Sepeda Motor'
     },
-    '0063056949': {
+    '0063506949': {
         nama: 'DION DWI OKTA RAMADAN',
         konsentrasi: 'Teknik Sepeda Motor'
     },
-    '3007862699': {
+    '3060782690': {
         nama: 'EGI SAPUTRA',
         konsentrasi: 'Teknik Sepeda Motor'
     },
@@ -331,11 +331,11 @@ const students = {
         nama: 'M. IKHSAN',
         konsentrasi: 'Teknik Sepeda Motor'
     },
-    '0073944945': {
+    '0073949495': {
         nama: 'MEI OSCAR BINTANG PRATAMA',
         konsentrasi: 'Teknik Sepeda Motor'
     },
-    '0134965183': {
+    '0139465183': {
         nama: 'MELANO RADIKA',
         konsentrasi: 'Teknik Sepeda Motor'
     },
@@ -343,35 +343,35 @@ const students = {
         nama: 'MILA JUNIATI',
         konsentrasi: 'Teknik Sepeda Motor'
     },
-    '0072046315': {
+    '0075063932': {
         nama: 'MUHAMMAD ARYA DZAKY',
         konsentrasi: 'Teknik Sepeda Motor'
     },
-    '0069613462': {
+    '0069861432': {
         nama: 'MUHAMMAD DENIS ATTAYAH',
         konsentrasi: 'Teknik Sepeda Motor'
     },
-    '0068011696': {
+    '0068016966': {
         nama: 'MUHAMMAD SIDQI FERDIANSYAH',
         konsentrasi: 'Teknik Sepeda Motor'
     },
-    '0061079796': {
+    '0061200796': {
         nama: 'MUHAMMAD YANIK',
         konsentrasi: 'Teknik Sepeda Motor'
     },
-    '0062590968': {
+    '0069570968': {
         nama: 'NABIL GUSTIANSYAH',
         konsentrasi: 'Teknik Sepeda Motor'
     },
-    '3063636857': {
+    '3063663857': {
         nama: 'RAHMADI',
         konsentrasi: 'Teknik Sepeda Motor'
     },
-    '0068134471': {
+    '0068134871': {
         nama: 'REIVAN ADETYA PUTRA',
         konsentrasi: 'Teknik Sepeda Motor'
     },
-    '0061640283': {
+    '0062640283': {
         nama: 'REYNOLD ANESLIUS SIPAHUTAR',
         konsentrasi: 'Teknik Sepeda Motor'
     },
@@ -379,11 +379,11 @@ const students = {
         nama: 'REZA ARDIANTO',
         konsentrasi: 'Teknik Sepeda Motor'
     },
-    '0071652579': {
+    '0071052579': {
         nama: 'RILKE FEBRIAN SAPUTRA',
         konsentrasi: 'Teknik Sepeda Motor'
     },
-    '0066330641': {
+    '0066830641': {
         nama: 'RIZKY DWI ZULIANTO',
         konsentrasi: 'Teknik Sepeda Motor'
     },
@@ -391,7 +391,7 @@ const students = {
         nama: 'SATRIA CANDRA',
         konsentrasi: 'Teknik Sepeda Motor'
     },
-    '0062961081': {
+    '0079961081': {
         nama: 'SINDI APRILIANA',
         konsentrasi: 'Teknik Sepeda Motor'
     },
@@ -436,7 +436,7 @@ const students = {
         nama: 'DELTA HARIANTO',
         konsentrasi: 'Teknik Instalasi Tenaga Listrik'
     },
-    '0067975511': {
+    '0067997551': {
         nama: 'DION NOFRI ARIADI',
         konsentrasi: 'Teknik Instalasi Tenaga Listrik'
     },
@@ -456,7 +456,7 @@ const students = {
         nama: 'GALANG ABIMAYU',
         konsentrasi: 'Teknik Instalasi Tenaga Listrik'
     },
-    '0068416395': {
+    '0068661395': {
         nama: 'HADI OKTA RAMADHANI',
         konsentrasi: 'Teknik Instalasi Tenaga Listrik'
     },
@@ -468,11 +468,11 @@ const students = {
         nama: 'JONATAN BENGET NABABAN',
         konsentrasi: 'Teknik Instalasi Tenaga Listrik'
     },
-    '0064488581': {
+    '0064848581': {
         nama: 'M. ILHAM MAULANA PUTRA',
         konsentrasi: 'Teknik Instalasi Tenaga Listrik'
     },
-    '0064530072': {
+    '0072530072': {
         nama: 'MUHAMAD TASUDIN AMSAH',
         konsentrasi: 'Teknik Instalasi Tenaga Listrik'
     },
@@ -480,23 +480,23 @@ const students = {
         nama: 'MUHAMMAD PRASTIYO',
         konsentrasi: 'Teknik Instalasi Tenaga Listrik'
     },
-    '0079365148': {
+    '0076010398': {
         nama: 'NABIL ARKAN MAULANA',
         konsentrasi: 'Teknik Instalasi Tenaga Listrik'
     },
-    '0079635148': {
+    '0079365148': {
         nama: 'NAUFAL SADA SANJAYA',
         konsentrasi: 'Teknik Instalasi Tenaga Listrik'
     },
-    '0077387843': {
+    '0077837843': {
         nama: 'RACHEL ADRIAN',
         konsentrasi: 'Teknik Instalasi Tenaga Listrik'
     },
-    '0079789609': {
+    '0079798690': {
         nama: 'RAHMANDI',
         konsentrasi: 'Teknik Instalasi Tenaga Listrik'
     },
-    '0065836172': {
+    '0058386172': {
         nama: 'TAUFIQ RAHMAN',
         konsentrasi: 'Teknik Instalasi Tenaga Listrik'
     },
@@ -504,7 +504,7 @@ const students = {
         nama: 'TEGAR SANJAYA PUTRA',
         konsentrasi: 'Teknik Instalasi Tenaga Listrik'
     },
-    '0068616193': {
+    '0081666193': {
         nama: 'TIGOR HOTMAUTA HUTABARAT',
         konsentrasi: 'Teknik Instalasi Tenaga Listrik'
     },
@@ -521,7 +521,7 @@ const students = {
         nama: 'ABI BAGUS PRASETYO',
         konsentrasi: 'Teknik Komputer dan Jaringan'
     },
-    '0068089891': {
+    '0086808891': {
         nama: 'ADIAN PRANATA WIJAYA KUSUMA',
         konsentrasi: 'Teknik Komputer dan Jaringan'
     },
@@ -549,7 +549,7 @@ const students = {
         nama: 'GESTI TRI WAHYUNI',
         konsentrasi: 'Teknik Komputer dan Jaringan'
     },
-    '0056467048': {
+    '0056647048': {
         nama: 'IBNU RAMADHANI EFENDY',
         konsentrasi: 'Teknik Komputer dan Jaringan'
     },
@@ -557,7 +557,7 @@ const students = {
         nama: 'ISLAHUL LAILA',
         konsentrasi: 'Teknik Komputer dan Jaringan'
     },
-    '0079982805': {
+    '0079898805': {
         nama: 'JASVIN JHONATAN SIAGIAN',
         konsentrasi: 'Teknik Komputer dan Jaringan'
     },
@@ -573,23 +573,23 @@ const students = {
         nama: 'LIDYA OKTA RAMADHANI',
         konsentrasi: 'Teknik Komputer dan Jaringan'
     },
-    '006443659': {
+    '0034643659': {
         nama: 'LILIS MARLINA',
         konsentrasi: 'Teknik Komputer dan Jaringan'
     },
-    '0133448064': {
+    '0063094076': {
         nama: 'M. RAPLY AKBAR',
         konsentrasi: 'Teknik Komputer dan Jaringan'
     },
-    '0081044776': {
+    '0133458064': {
         nama: 'MUHAMMAD RAMA HIDAYAH',
         konsentrasi: 'Teknik Komputer dan Jaringan'
     },
-    '0063590550': {
+    '0063930550': {
         nama: 'NIA AGUSTINA',
         konsentrasi: 'Teknik Komputer dan Jaringan'
     },
-    '0063545744': {
+    '0065345744': {
         nama: 'OLO NAINGGOLAN',
         konsentrasi: 'Teknik Komputer dan Jaringan'
     },
@@ -597,7 +597,7 @@ const students = {
         nama: 'RAISYAH ARDA OKTAVIANA',
         konsentrasi: 'Teknik Komputer dan Jaringan'
     },
-    '0079982806': {
+    '0072094606': {
         nama: 'RESTA RIANI BR SIJABAT',
         konsentrasi: 'Teknik Komputer dan Jaringan'
     },
@@ -605,23 +605,23 @@ const students = {
         nama: 'RHAFI NUR KAMAL',
         konsentrasi: 'Teknik Komputer dan Jaringan'
     },
-    '0072902503': {
+    '0079200503': {
         nama: 'RIJAL SIJABAT',
         konsentrasi: 'Teknik Komputer dan Jaringan'
     },
-    '0054820022': {
+    '0052424882': {
         nama: 'SINTA',
         konsentrasi: 'Teknik Komputer dan Jaringan'
     },
-    '0072820082': {
+    '0068900822': {
         nama: 'SISKA YULANDARI',
         konsentrasi: 'Teknik Komputer dan Jaringan'
     },
-    '0066567109': {
+    '0065657109': {
         nama: 'SOPINA',
         konsentrasi: 'Teknik Komputer dan Jaringan'
     },
-    '0073645041': {
+    '0074356014': {
         nama: 'YASRIL PUJIANTO',
         konsentrasi: 'Teknik Komputer dan Jaringan'
     },
@@ -702,7 +702,7 @@ const students = {
         nama: 'PADILA SAPUTRA',
         konsentrasi: 'Akuntansi'
     },
-    '0049495958': {
+    '0074095958': {
         nama: 'PASHA PISTRA BR BUTAR BUTAR',
         konsentrasi: 'Akuntansi'
     },
@@ -710,11 +710,11 @@ const students = {
         nama: 'PRISILA NAZRIAMONA',
         konsentrasi: 'Akuntansi'
     },
-    '0062811723': {
+    '0062801723': {
         nama: 'RAHMANDA RENALDI',
         konsentrasi: 'Akuntansi'
     },
-    '0065930674': {
+    '0055930674': {
         nama: 'RASNA AINI',
         konsentrasi: 'Akuntansi'
     },
@@ -726,7 +726,7 @@ const students = {
         nama: 'RINI MAULITA',
         konsentrasi: 'Akuntansi'
     },
-    '0078175762': {
+    '0078157762': {
         nama: 'RIRIN OLIMPIA',
         konsentrasi: 'Akuntansi'
     },
@@ -738,7 +738,7 @@ const students = {
         nama: 'UCI ELIANA UTARI',
         konsentrasi: 'Akuntansi'
     },
-    '0072191549': {
+    '0071291549': {
         nama: 'VINA ALVIANITA',
         konsentrasi: 'Akuntansi'
     },
@@ -766,11 +766,11 @@ document.addEventListener('DOMContentLoaded', () => {
         container.style.display = 'block';
         startCountdown();
       }, 1000);
-    }, 7000); // Total waktu = durasi animasi (10s) + fade out (1s)
+    }, 3000); // Total waktu = durasi animasi (10s) + fade out (1s)
 });
 
 // Hitung mundur
-const countdownDate = new Date('April 30, 2025 21:10:00').getTime();
+const countdownDate = new Date('May 01, 2025 08:10:00').getTime();
 const countdownElement = document.getElementById('countdown');
 const waitingMessage = document.getElementById('waitingMessage');
 const formContainer = document.getElementById('formContainer');
