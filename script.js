@@ -770,7 +770,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 // Hitung mundur
-const countdownDate = new Date('May 01, 2025 08:10:00').getTime();
+const countdownDate = new Date('May 05, 2025 21:00:00').getTime();
 const countdownElement = document.getElementById('countdown');
 const waitingMessage = document.getElementById('waitingMessage');
 const formContainer = document.getElementById('formContainer');
